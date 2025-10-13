@@ -20,6 +20,7 @@ This org houses:
 - **GitHub Discussions**: in `Community-Product-Lab`
 
 ## Values
-- Human-centered design, sustainability, longevity.
+- Human-centered design, sustainability, longevity, REPAIRABILLITY and anti-enshitification.
 - Transparency of process (share reasoning, not just results).
 - Respect across disciplines; designers and engineers are peers.
+- The best idea wins.
