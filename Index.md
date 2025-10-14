@@ -1,3 +1,8 @@
+---
+layout: default
+title: OpenProduct-Lab
+---
+
 # OpenProduct-Lab — Collaborative Product Lab
 
 **Purpose:** Build a design-led, open hardware community where human factors, industrial design, and solid engineering meet.
