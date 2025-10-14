@@ -23,4 +23,4 @@ This org houses:
 - Human-centered design, sustainability, longevity, REPAIRABILLITY and anti-enshitification.
 - Transparency of process (share reasoning, not just results).
 - Respect across disciplines; designers and engineers are peers.
-- The best idea wins.
+- The best idea wins!
